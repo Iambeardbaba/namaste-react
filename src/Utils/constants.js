@@ -4,4 +4,7 @@ const CDN_URL =
 const LOGO_URL =
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGz0WshFYnlwlqP_fs3ErIppUvpuaYfTrZQ&s";
 
-export { CDN_URL, LOGO_URL };
+const MENU_API =
+  "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.461421&lng=78.3346205&restaurantId=";
+
+export { CDN_URL, LOGO_URL, MENU_API };
